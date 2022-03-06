@@ -1,0 +1,3 @@
+[submodule "amazon-braket-examples"]
+	path = amazon-braket-examples
+	url = git@github.com:biggerheart/amazon-braket-examples.git
